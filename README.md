@@ -5,4 +5,4 @@
 
 -- O segundo objetivo é guardar esses dados em um banco de dados, aqui utilizaremos o MySQL, e criarmos uma tabela a partir disso para realizarmos select's, insert's e delete's nesse banco de dados.
 
--- Por fim, concluirmos o teste fazendo o deploy desse projeto.
+-- Por fim, enviaremos via link aos coordenadores técnicos.
